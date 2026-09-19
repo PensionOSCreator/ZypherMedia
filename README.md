@@ -73,7 +73,7 @@ The Zypher Media logo uses a merged **Z + M** design, representing **Zypher Medi
 
 ## 📦 Building
 
-The project can be opened and built using:
+The project was built using:
 
 **Visual Studio 2017**
 
