@@ -1,8 +1,6 @@
 # ZypherMedia
 Zypher Media is a basic media player for Windows 10 UWP.
 
-# Zypher Media
-
 **Zypher Media** is a music player built for **Windows 10 Mobile**, designed around the classic **Windows Phone / Metro** aesthetic.
 
 The project is currently in active development. More features, improvements and fixes will be added in future releases.
